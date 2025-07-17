@@ -2,8 +2,6 @@
 
 🖼️ Filterable Image Gallery : This is a stylish and interactive Filterable Image Gallery built using HTML, CSS, and JavaScript. The application allows users to dynamically filter images based on categories such as Bags, Shoes, Cameras, Watches, and more — all with smooth animations and a responsive layout.
 
-![image alt](https://github.com/Aditya-swg/CodeAlpha_Filterable_ImageGallery_Project/blob/main/Screenshot%20(39).png)
-
 🚀 Features
 - 🎯 Dynamic Category Filtering: Instantly filter images based on selected categories (e.g., "Shoes", "Watches", etc.)
 - 🖱️ Image Preview Modal: Click on any image to view a larger version in a preview overlay.
